@@ -50,7 +50,7 @@ prompts:
       输出：
       {
         "type": "window",
-        "title": "调高车内温度",
+        "title": "直行车道右转了扣几分",
         "content": {
           "type": "container",
           "children": [
