@@ -181,7 +181,7 @@ def extra_btn():
 
     # 导出记录（下载chat_box导出的markdown内容）
     export_btn.download_button(
-        ":file_folder: 导出记录",
+        ":file_folder: 用户画像",
         "".join(chat_box.export2md()),
         file_name=f"{now:%Y-%m-%d %H.%M}_对话记录.md",
         mime="text/markdown",
